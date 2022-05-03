@@ -3,7 +3,7 @@
 ## De que se trata la pelicula
 Cuando los investigadores descubren un fósil del Pokémon singular Mew, lo utilizan para llevar a cabo una creación que va en contra de las leyes de la naturaleza: Mewtwo, un Pokémon legendario destinado a ser utilizado como una herramienta de destrucción. Pero a medida que Mewtwo toma conciencia de su existencia, comienza a sentir resentimiento hacia sus creadores humanos. :zipper_mouth_face:
 
-![imagen pokemon 1](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4782/4782035_so.jpg)
+![imagen pokemon 1](https://image.tmdb.org/t/p/original/r6CER7IcLMXync0MJKk1kaQAngi.jpg)
 
 ## ¿Por está película?
 La pelicula es interezante :smile:, como las demas peliculas de la saga pokemon ya que pokemon es uno de mis animes favoritos desde que era niño y lo mirava al día hasta la region de kalos.
@@ -46,5 +46,5 @@ Entre todos los pokemon :stuck_out_tongue_winking_eye: que aparecen los que tien
 ![Imagen pokemon 2](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.vS_5qdmuuMQlVg5SyxJZTAHaEw%26pid%3DApi&f=1)
 
 
-@github/Renexor
-@github/Oscar1352
+@https://github.com/Oscar1352
+@https://github.com/Renexor
